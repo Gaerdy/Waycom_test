@@ -3,7 +3,7 @@
 Tests techniques de recrutement chez Waycom 
 
  - [Problème 1](#Contage-de-mots)
- - [Problème 2](#Pic-d’appels)
+ - [Problème 2](#Pic-d-appels)
 
 
 ## Contage de mots
@@ -33,7 +33,7 @@ $ cat /etc/services | ./comptage_mot.py
 [...]
 ```
 
-## Pic d’appels
+## Pic d appels
 
 **Objectif :** Ecrire un programme qui lit une liste d'appels sur l’entrée standard. Cette liste
 d'appels est une succession de lignes présentées sous la forme suivante :
