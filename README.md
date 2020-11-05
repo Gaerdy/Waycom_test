@@ -2,8 +2,8 @@
 
 Tests techniques de recrutement chez Waycom 
 
- - [Problème 1](#Contage de mots)
- - [Problème 2](#Pic d’appels)
+ - [Problème 1](#Contage-de-mots)
+ - [Problème 2](#Pic-d’appels)
 
 
 ## Contage de mots
